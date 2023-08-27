@@ -1,0 +1,390 @@
+{
+    "profession": "farmer",
+    "removeOtherTrades": true,
+    "trades": [
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:wheat_seeds",
+          "amount": 21,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 1
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "supplementaries:flax_seeds",
+          "amount": 21,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 1
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:beetroot_seeds",
+          "amount": 21,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 1
+      },
+      {
+        "offer": {
+          "itemKey": "supplementaries:rope",
+          "amount": 5,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 1
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:wheat",
+          "amount": 8,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 1
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "farmersdelight:tomato_seeds",
+          "amount": 15,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 2
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "farmersdelight:cabbage_seeds",
+          "amount": 15,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 2
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "culturaldelights:eggplant_seeds",
+          "amount": 15,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 2
+      },
+      {
+        "offer": {
+          "itemKey": "farmersdelight:basket",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        "tradeExp": 10,
+        "maxUses": 6,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 2
+      },
+      {
+        "offer": {
+          "itemKey": "farmersdelight:cabbage",
+          "amount": 3,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 2,
+        "maxUses": 16,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 2
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "supplementaries:fodder",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        "tradeExp": 10,
+        "maxUses": 12,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 3
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 3,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:iron_hoe",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 10,
+        "maxUses": 3,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 3
+      },
+      {
+        "offer": {
+          "itemKey": "wildberries:cranberry_muffin",
+          "amount": 8,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 10,
+        "maxUses": 12,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 3
+      },
+      {
+        "offer": {
+          "itemKey": "cookielicious:vanilla_cookie",
+          "amount": 12,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 10,
+        "maxUses": 12,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 3
+      },
+      {
+        "offer": {
+          "itemKey": "neapolitan:strawberry_scones",
+          "amount": 8,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 10,
+        "maxUses": 12,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 3
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "miners_delight:rabbit_stew_cup",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 15,
+        "maxUses": 6,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 4
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "farmersdelight:vegetable_soup",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 15,
+        "maxUses": 6,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 4
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "farmersdelight:pumpkin_soup",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 15,
+        "maxUses": 6,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 4
+      },
+      {
+        "offer": {
+          "itemKey": "brewinandchewin:kimchi",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 15,
+        "maxUses": 6,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 4
+      },
+      {
+        "offer": {
+          "itemKey": "brewinandchewin:beer",
+          "amount": 3,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 15,
+        "maxUses": 6,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 4
+      },
+      {
+        "offer": {
+          "itemKey": "minecraft:emerald",
+          "amount": 6,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "alloyed:steel_hoe",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "tradeExp": 20,
+        "maxUses": 3,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 5
+      },
+      {
+        "offer": {
+          "itemKey": "brewinandchewin:mead",
+          "amount": 3,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        "tradeExp": 20,
+        "maxUses": 6,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 5
+      },
+      {
+        "offer": {
+          "itemKey": "brewinandchewin:flaxen_cheese_wheel",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        "tradeExp": 30,
+        "maxUses": 3,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 5
+      },
+      {
+        "offer": {
+          "itemKey": "overweight_farming:straw_hat",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        "request": {
+          "itemKey": "minecraft:emerald",
+          "amount": 20,
+          "priceModifier": 0
+        },
+        "tradeExp": 30,
+        "maxUses": 3,
+        "priceMultiplier": 0.05,
+        "tradeLevel": 5
+      }
+    ]
+  }

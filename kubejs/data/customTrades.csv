@@ -1,0 +1,6 @@
+profession, level, firstInput, firstQuant, secondInput, secondQuant, output, outputQuant, experience, uses, multiplier
+farmer, 1, minecraft:wheat_seeds, 21, , , minecraft:emerald, 1, 2, 16, 0.05
+farmer, 1, supplementaries:flax_seeds, 21, , , minecraft:emerald, 1, 2, 16, 0.05
+farmer, 1, minecraft:beetroot_seeds, 21, , , minecraft:emerald, 1, 2, 16, 0.05
+farmer, 1, minecraft:emerald, 1, , , supplementaries:rope, 5, 2, 16, 0.05
+farmer, 1, minecra:emerald, 1, , , minecraft:wheat, 
