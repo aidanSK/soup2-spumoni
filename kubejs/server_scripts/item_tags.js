@@ -14,3 +14,4 @@ onEvent('tags.items', event => {
     event.add('kubejs:warped_bookshelf', 'woodworks:warped_bookshelf'),
     event.add('kubejs:warped_bookshelf', 'carpenter:warped_bookshelf')
 })
+
