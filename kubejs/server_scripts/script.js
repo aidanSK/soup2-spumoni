@@ -8,7 +8,9 @@ settings.logErroringRecipes = true
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
 onEvent('recipes', event => {
+
 	// Change recipes here
+
 })
 
 onEvent('item.tags', event => {
@@ -17,6 +19,7 @@ onEvent('item.tags', event => {
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
+    
 })
 
 onEvent('morejs.villager.trades', (event) => {
