@@ -1,0 +1,5 @@
+name: dev-to-prod
+run-name: ${{ github.actor }} is moving relevant dev files to prod
+on:
+  release:
+    type: [published]
