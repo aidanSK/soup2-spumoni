@@ -1,5 +1,16 @@
-name: dev-to-prod
+name: dev-prod-sync
 run-name: ${{ github.actor }} is moving relevant dev files to prod
+#on:
+#  release:
+#    type: [published]
+
 on:
-  release:
-    type: [published]
+  push:
+    branches:
+      - "main"
+
+jobs:
+  check-bats-version:
+    runs-on: self-hosted
+    steps:
+      - run: py3 ./modded-dev-data/sync.py
